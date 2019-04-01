@@ -10,5 +10,7 @@ int main()
 	
 	cout<<"Ya volvi Mundo"<<endl;
 	
+	cout<<"Ya voy de nuevo"<<endl;
+	
 	return 0;
 }
